@@ -14,3 +14,4 @@ it uses the following libraries:
   - `datasets` for the dataset
   - `scikit-learn` for machine learning utils
   - `pytorch` for the RNN and learning
+  - `torchtext` for vocabulary and tokenization
